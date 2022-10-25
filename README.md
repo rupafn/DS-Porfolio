@@ -12,6 +12,7 @@ Machine learning algorithms were used as well for predictions.
   - Exploratory Data Analysis
   - Used PCA visualization with Python Plotly 
   - Predicted Health risk using ML Algorithms
+  - Achieved 94% Maternal Risk Prediction Accuracy with Random Forest Algorithm
   
 4. Facebook-status-clustering: 
   - Cluster facebook status from Pycaret dataset using KMeans
