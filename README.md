@@ -16,4 +16,5 @@ Machine learning algorithms were used as well for predictions.
 4. Facebook-status-clustering: 
   - Cluster facebook status from Pycaret dataset using KMeans
   - Did some data preprocessing like converting categorical data using One-Hot-Encoding and dropping columns not required
-  - Used Plotly to visualize the clusters
+  - Used Plotly to interactively visualize the clusters
+  -  ![alt text](https://github.com/rupafn/DS-Porfolio/blob/main/Kaggle/Facebook-%20status-Clustering/clusterplot.png)
