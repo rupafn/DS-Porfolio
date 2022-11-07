@@ -83,5 +83,5 @@ if __name__ == '__main__':
     playlist_ids = asyncio.run(get_playlist_ids(featured))
     track_ids = asyncio.run(get_track(playlist_ids))
     df = asyncio.run(get_audio_features(track_ids))
-    df.to_csv('out.csv', index=False)
+    df.to_csv('featured_songs.csv', index=False)
 
