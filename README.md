@@ -19,3 +19,5 @@ Machine learning algorithms were used as well for predictions.
   - Did some data preprocessing like converting categorical data using One-Hot-Encoding and dropping columns not required
   - Used Plotly to interactively visualize the clusters
   -  ![alt text](https://github.com/rupafn/DS-Porfolio/blob/main/Kaggle/Facebook-%20status-Clustering/clusterplot.png)
+
+5. Spotify top 50 US based featured playlist's track audio and popularity analysis (total 801 tracks) (ongoing)
